@@ -1,8 +1,7 @@
 # 🏓 Pong Game
 
 A simple two-player **Pong clone** built with **Python** and **Pygame** — inspired by the classic 1972 Atari arcade game.  
-This project was created as part of my journey learning Python through **[Codédex](https://www.codedex.io/)** and building small games to apply what I learn.  
-
+ 
 ---
 
 ## 🎮 Gameplay
@@ -32,3 +31,4 @@ Two players battle it out in a retro-style Pong match:
    ```bash
    git clone https://github.com/DarilynP/PongGame.git
    cd PongGame
+
